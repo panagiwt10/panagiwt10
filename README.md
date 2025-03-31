@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @panagiwt10
-- 👀 I’m interested in Bioinforatics,coding and arduino-embbeded Systems
+- 👀 I’m interested in Bioinformatics,coding and arduino-embbeded Systems
 - 🌱 I’m currently learning python and bioinformatics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram: panagiwt_  
